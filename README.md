@@ -1,4 +1,4 @@
-🏆 The GitHub Achievement Quest!
+🏆 The GitHub Achievement Quest
 
 Welcome to the ultimate roadmap for unlocking GitHub's digital trophies! Use this guide to level up your profile and showcase your contributions to the community.
 
