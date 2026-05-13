@@ -121,5 +121,5 @@ The 24-Hour Rule: GitHub's background workers can be slow. Give it a full day.
 
 Private Activity: If you worked in a private repo, go to Settings > Public Profile and check "Show private contributions."
 
-The Refresh Trick: Go to your profile settings, Hide the badge, save, and then Unhide it. This usually forces a metadata sync.!!!
+The Refresh Trick: Go to your profile settings, Hide the badge, save, and then Unhide it. This usually forces a metadata sync.
 
