@@ -1,125 +1,297 @@
-🏆 The GitHub Achievement Quest
+📋 Step-by-Step Earning Guide
 
-Welcome to the ultimate roadmap for unlocking GitHub's digital trophies! Use this guide to level up your profile and showcase your contributions to the community.
+🔫 Quickdraw
 
-⚔️ The Solo Quests
+Close a Pull Request or Issue within 5 minutes of it being opened.
 
-Can be completed entirely on your own.
+Navigate to any repository you own (or create a new one).
 
-⚡ Quickdraw
+Click "Issues" → "New Issue".
 
-Objective: Close a task faster than a heartbeat.
+Enter any title and click "Submit new issue".
 
-The Move: Open a new Issue or Pull Request in your own repo.
+Immediately click "Close issue".
+Requirement: The closing action must occur within 5 minutes of creation ⏱️
 
-The Finish: Hit that "Close" button immediately.
-
-Timing: Must be completed in under 5 minutes.
-
-🦈 Pull Shark
-
-Objective: Master the art of the merge.
-
-The Move: Create a branch (git checkout -b update), make a tiny change, and push it.
-
-The Finish: Open a PR and merge it.
-
-Leveling Up: Repeat this twice for the base badge; keep going to hit Bronze, Silver, and Gold tiers.
+✅ You can do this entirely on your own — no collaborators needed!
+💡 Pro Tip: You can also close your own Pull Request (not just an Issue) to earn this badge. Whichever you find faster!
 
 💖 Public Sponsor
 
-Objective: Support the open-source ecosystem.
+Sponsor any GitHub user, organization, or repository.
 
-The Move: Find a creator or project you love and click the Sponsor button.
+Find any developer with a "Sponsor" button on their GitHub profile.
 
-The Finish: Commit to the lowest tier (often just $1).
+Click the "❤️ Sponsor" button.
 
-Note: The badge stays even if you cancel after the first month!
+Select the minimum tier (often $1/month).
 
-🤘 YOLO
+Complete payment through GitHub's billing.
 
-Objective: Trust your own code.
+Verify the badge appears on your profile instantly 🎉
 
-The Move: Push a change and merge a Pull Request without any formal reviews.
+💡 You can cancel after one month — the badge stays permanently.
 
-The Finish: Ensure no "Branch Protection" rules are blocking you, then hit merge.
+🦈 Pull Shark
 
-🛡️ The Social Quests
+Merge 2 pull requests.
 
-Requires interaction with the GitHub community.
+Open any repository you own.
+
+Create a new branch:
+git checkout -b feature/my-change
+
+Modify any file with a small edit.
+
+Push the branch:
+git push origin feature/my-change
+
+Open a Pull Request on GitHub.
+
+Merge the Pull Request ✅
+
+Repeat steps 2–6 once more.
+
+💡 Pro Tips:
+
+You can do this 100% solo in your own repository.
+
+Only merged PRs count — PRs closed without merging do NOT trigger the badge.
+
+Keep merging PRs to level up to Bronze → Silver → Gold tiers!
+
+🤪 YOLO
+
+Merge a pull request without a code review.
+
+Setup: You need 2 GitHub accounts (yours + a friend/alt account).
+
+Account B: Create a repository and add Account A as a collaborator (Settings → Collaborators → Add people).
+
+Account A or B: Create a branch, make a change, and open a Pull Request.
+
+Merge the PR WITHOUT requesting or approving a review.
+
+Success: The badge is awarded to the person who performed the merge ✅
+
+⚠️ Make sure branch protection rules do NOT enforce reviews.
+💡 Pro Tip: If you own the repository and no branch protection rules require a review, you can merge your own PR without review — no second account needed!
 
 🧠 Galaxy Brain
 
-Objective: Become a fountain of knowledge.
+Get 2 of your answers accepted in GitHub Discussions on public repositories.
 
-The Move: Visit a project with Discussions enabled.
+Explore: Navigate to GitHub Explore to find public repositories with Discussions enabled.
 
-The Finish: Provide a solution to someone's question. If they mark it as the Accepted Answer, you're one step closer.
+Identify: Browse for open, unanswered questions you can genuinely help with.
 
-Target: You need 2 accepted answers in public repositories.
+Contribute: Write a clear, helpful, detailed answer.
 
-🤝 Pair Extraordinaire
+Validate: The discussion author marks your reply as "✅ Answered".
 
-Objective: The power of two.
+Repeat until you have 2 accepted answers.
 
-The Move: When committing code, add a "Co-authored-by" trailer to the bottom of your commit message:
+🚨 Important 2024 Update: You can NO longer earn this badge via the main GitHub Community Discussions. GitHub disabled badge awarding there to combat spam.
+💡 Pro Tips:
 
-Co-authored-by: Username <username@users.noreply.github.com>
+Focus on repos related to your skillset for higher acceptance rates.
+
+Self-marked answers do NOT count.
+
+Only answers in public repositories count.
+
+👥 Pair Extraordinaire
+
+Be a co-author on a merged pull request.
+
+Download GitHub Desktop (optional, but easiest): https://desktop.github.com
+
+Commit: Open a repository and make a commit.
+
+Format: In the commit message, add this on a new line:
+
+Co-authored-by: FriendName <friend@email.com>
 
 
-The Finish: Once that PR is merged, both you and your partner get the badge.
+(Note: Use your collaborator's real GitHub username and email address linked to their account.)
+4. Push the branch and open a Pull Request.
+5. Merge: Get the PR merged ✅
+6. Reward: Both you AND the co-author earn the badge!
 
 ⭐ Starstruck
 
-Objective: Create something the world loves.
+Get a repository to 16 stars.
 
-The Move: Build a repository that solves a problem or shares unique data.
+Create an awesome, useful, or unique repository.
 
-The Finish: Promote your work until you hit 16 Stars.
+Document: Write a compelling README.md that clearly explains your project.
 
-Pro Tip: High-quality README.md files with images get 3x more stars!
+Optimize: Add topics/tags to help people discover your repo.
 
-🎨 Tier & Style Reference
+Promote: Share your repo on Reddit (r/github, r/opensource), X/Twitter, or Dev.to.
 
-Achievement
+Engage: Pin the repo to your profile and respond to incoming issues.
 
-Tier 🥉 (x2)
+Achievement: Once 16 people star your repo → Badge unlocked! 🌟
 
-Tier 🥈 (x3)
+⚠️ Important: The repository must be owned by you personally — organization-owned repos do NOT count.
 
-Tier 🥇 (x4)
+🎨 Customization & Tiers
 
-Pull Shark
+Achievement Skin Tones
 
-Merged 2
+Two badges support different emoji skin tones based on your Appearance Settings.
 
-Merged 16
+Badge
 
-Merged 128
+Default
 
-Galaxy Brain
+Light
 
-2 Answers
+Med-Light
 
-8 Answers
+Medium
 
-16 Answers
+Med-Dark
+
+Dark
 
 Starstruck
 
-16 Stars
+👋
 
-128 Stars
+👋🏻
 
-512 Stars
+👋🏼
 
-🛠️ Troubleshooting the "Ghost" Badges
+👋🏽
 
-If you completed the steps but the badge hasn't appeared:
+👋🏾
 
-The 24-Hour Rule: GitHub's background workers can be slow. Give it a full day.
+👋🏿
 
-Private Activity: If you worked in a private repo, go to Settings > Public Profile and check "Show private contributions."
+Quickdraw
 
-The Refresh Trick: Go to your profile settings, Hide the badge, save, and then Unhide it. This usually forces a metadata sync.
+🔫
 
+🔫
+
+🔫
+
+🔫
+
+🔫
+
+🔫
+
+Tier Colors Reference
+
+Tier
+
+Label
+
+Color
+
+Hex Code
+
+🥉
+
+Bronze
+
+x2
+
+#F9BFA7
+
+🥈
+
+Silver
+
+x3
+
+#E1E4E4
+
+🥇
+
+Gold
+
+x4
+
+#FAE57E
+
+🔧 Troubleshooting & FAQ
+
+⏳ Badge Not Appearing?
+
+Processing Delay: Can take 24–48 hours.
+
+Private Activity: Ensure "Show private contributions on my profile" is enabled in settings.
+
+Forks: Activity inside a fork doesn't count until it is merged into the parent repo.
+
+Status Sync: If a badge is stuck, try hiding and unhiding it in your profile settings to force a refresh.
+
+❓ FAQ
+
+Q: Do badges disappear?
+
+A: No, they are permanent once earned.
+
+Q: Can I use a self-marked answer for Galaxy Brain?
+
+A: No. It must be marked by the author or a maintainer.
+
+Q: Do stars from organizations count for Starstruck?
+
+A: No. Only stars on personally owned repositories count.
+
+📊 Personal Progress Tracker
+
+Copy this into your README to track your journey!
+
+Badge
+
+Status
+
+Tier
+
+🔫 Quickdraw
+
+⬜ Not earned
+
+—
+
+💖 Public Sponsor
+
+⬜ Not earned
+
+—
+
+🦈 Pull Shark
+
+⬜ Not earned
+
+Default
+
+🤪 YOLO
+
+⬜ Not earned
+
+—
+
+🧠 Galaxy Brain
+
+⬜ Not earned
+
+Default
+
+👥 Pair Extraordinaire
+
+⬜ Not earned
+
+Default
+
+⭐ Starstruck
+
+⬜ Not earned
+
+Default
